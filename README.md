@@ -1,9 +1,10 @@
-## Hi there 👋
+![github-header-image (2)](https://github.com/user-attachments/assets/56de9b49-66c4-411d-8429-c0fea5ba47d6)
+
 
 <!--
 **codereposai/codereposai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
